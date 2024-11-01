@@ -1,0 +1,33 @@
+/*   BEGIN  */
+
+
+.zidithemes-topbar-menu {
+	display: none;
+	text-align: center;
+    background: #3e3e3e;
+    padding: 5px 10px;
+}
+
+.zidithemes-topbar-menu .topbanner-text {}
+
+.zidithemes-topbar-menu .topbanner-link {}
+
+.zidithemes-topbar-menu .topbanner-link a {}
+
+.zidithemes-topbar-menu .topbanner-link .text-link {
+	color: #fff;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.zidithemes-topbar-menu .topbanner-link .text-btn {
+		color: #fff;
+	    text-decoration: none;
+	    background: red;
+	    display: inline-block;
+	    /* height: 29px; */
+	    padding: 9px 13px;
+	    border-radius: 4px;
+	    margin-left: 20px;
+	    font-size: 17px;
+}

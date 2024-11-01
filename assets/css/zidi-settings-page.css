@@ -1,0 +1,220 @@
+/* ZIDI TOPBAR MENU ADMIN CSS */
+.zidi-topbar-menu-adm {
+
+}
+
+.button-youtube {
+	background: #e00909 !important;
+	border-color: #e00909 !important;
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 14px !important;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade{
+	background: #fff;
+    border: 1px solid #ababab;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr {
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr th {
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr th:nth-child(1) {
+	background: #353535;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr th:nth-child(2) {
+	background: #000;
+	text-align: center;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr th:nth-child(3) {
+	background: blue;
+	text-align: center;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table .theme-table-head tr th h3{
+	font-size: 19px;
+    color: #fff;
+    margin: 10px 20px;
+    /*text-align: left;*/
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr {
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td:nth-child(2){
+	text-align: center;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td:nth-child(3){
+	text-align: center;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td .dashicons-no {
+	color: #e32828;
+	font-size: 28px;
+}
+
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td .dashicons-yes {
+	color: #10d710;
+	font-size: 28px;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr .feature-items-title {
+	font-weight: 600;
+	font-size: 17px;
+	line-height: 1.3;
+	font-size: 14px;
+    padding-left: 25px;
+    box-sizing: border-box;
+}
+
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td .number-index-styles{
+	font-weight: 800;
+    font-size: 21px;
+}
+
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr .go-pro .link {
+	display: inline-block;
+    background: #10d710;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 40px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td h3{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td a{
+
+}
+
+.zidi-topbar-menu-adm .theme-upgrade table tbody tr td span{
+
+}
+
+.zidi-topbar-menu-adm .header-welcome{
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 45px;
+	color: #505050;
+	margin-bottom: 20px;
+}
+
+.zidi-topbar-menu-adm h4{
+	font-size: 19px;
+}
+
+.zidi-topbar-menu-adm .theme-opt {}
+
+.zidi-topbar-menu-adm .theme-para {
+	background: #fff;
+    border: 1px solid #ababab;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.zidi-topbar-menu-adm .theme-para .button-primary {
+	font-weight: 900 !important;
+}
+
+.zidi-topbar-menu-adm .theme-main-btn {
+    box-sizing: border-box;
+}
+
+.zidi-topbar-menu-adm .theme-main-btn p{
+	font-size: 15px;
+	line-height: 1.5;
+    color: #353535;
+}
+
+.zidi-topbar-menu-adm .theme-main-btn .btn-sleek-one{
+	padding: 20px 35px;
+    background: #3777b9;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.zidi-topbar-menu-adm .theme-main-btn p a{}
+
+.zidi-topbar-menu-adm .theme-para p{
+	font-size: 15px;
+	line-height: 1.5;
+    color: #353535;
+}
+
+
+.zidi-topbar-menu-adm .theme-para p a{}
+
+.zidi-topbar-menu-adm-dsply-fl {
+	display: flex;
+}
+
+.zidi-topbar-menu-adm-jc-sp-btw {
+	justify-content: space-between;
+}
+
+.zidi-topbar-menu-adm-fl-wrap {
+	flex-wrap: wrap;
+}
+
+.zidi-topbar-menu-adm-wid-100 {
+	width: 100%;
+}
+
+.zidi-topbar-menu-adm-wid-99 {
+	width: 99%;
+}
+
+.zidi-topbar-menu-adm-wid-49 {
+	width: 49%;
+}
+
+.zidi-topbar-menu-adm-wid-33 {
+	width: 33%;
+}
+
+@media only screen and (max-width: 420px) { 
+
+
+	.zidi-topbar-menu-adm-mobwid-100 {
+		width: 100%;
+	}
+
+
+
+}
